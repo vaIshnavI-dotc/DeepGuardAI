@@ -19,5 +19,9 @@ DeepGuardAI is an AI-powered deepfake voice phishing detector built using Mel-sp
 
 ## ▶️ Run Locally
 ```bash
-pip install -r requirements.txt
+
+## Live Demo
+https://deepguardai-pzfwuttiwpad5ajrktbju9.streamlit.app/
+
+-r requirements.txt
 streamlit run app.py
