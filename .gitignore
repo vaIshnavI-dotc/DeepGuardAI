@@ -3,8 +3,6 @@ venv/
 dataset/
 __pycache__/
 *.pyc
-*.pth
-*.pt
 temp_audio.wav
 .DS_Store
 .ipynb_checkpoints/
